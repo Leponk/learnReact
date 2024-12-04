@@ -39,5 +39,5 @@ export const { auth, signIn, signOut } = NextAuth({
             },
         }),
     ],
-    secret: process.env.NEXT_PUBLIC_SECRET
+    secret: "9PSOLKqvXR/OJZE48b1axA/dIZt/LgaKldK84xIiFyc=",
 });
